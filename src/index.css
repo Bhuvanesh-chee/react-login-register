@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  background: #eef2f7;
+  text-align: center;
+}
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: blue;
+}
+form {
+  width: 280px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px gray;
+}
+input {
+  width: 90%;
+  padding: 8px;
+  margin: 8px 0;
+}
+button {
+  padding: 8px 20px;
+  background: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
